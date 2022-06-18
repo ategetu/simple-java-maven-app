@@ -1,0 +1,11 @@
+MuleSoft Continuous Deployment with Jenkins & Maven Mule Plugin
+
+part1= https://www.youtube.com/watch?v=WtXN6uMEvkw
+
+part 2= https://www.youtube.com/watch?v=b3QPj9zrYe8
+
+
+best CI/CD= https://www.youtube.com/watch?time_continue=65&v=Lyqy7d7uPS4
+
+https://www.youtube.com/watch?v=YgkPKu1Aq9Q&t=13s
+
