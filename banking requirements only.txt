@@ -1,0 +1,18 @@
+
+
+This API should be able to at least - THE HARDER WAY
+Update bank account information
+replace a customer's information
+retrieve details on a particular incoming transfer
+Retrieve a list of all transfers, both incoming and outgoing.
+Retrieve a full list of customers
+Add an account to a customer
+Remove an account from a customer
+Retrieve a list of outgoing transfers
+Create an outgoing transfer
+Add a customer to the bank
+Retrieve a detailed account report
+Get a list of accounts belonging to a particular customer
+Retrieve a list of incoming transfers
+Retrieve details on a particular outgoing transfer
+
